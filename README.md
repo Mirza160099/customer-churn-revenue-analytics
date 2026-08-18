@@ -1,8 +1,9 @@
 # Customer Churn & Revenue Analytics
 
-A business intelligence portfolio project focused on **Tableau, SQL, Python, customer segmentation, churn drivers, revenue at risk and retention prioritisation**.
 
-> **Data note:** All customer records are synthetic. No real employer or customer data is included.
+## Demo Preview
+
+![Customer churn dashboard preview](assets/dashboard-preview.png)
 
 ## Business Problem
 
